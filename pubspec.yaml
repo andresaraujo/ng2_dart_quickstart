@@ -1,0 +1,14 @@
+name: 'ng2_dart_quickstart'
+version: 0.0.1
+description: An absolute bare-bones angular 2 app.
+#author: <your name> <email@example.com>
+#homepage: https://www.example.com
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+  browser: '>=0.10.0 <0.11.0'
+  angular2: '2.0.0-alpha.29'
+
+#transformers:
+#  - angular2:
+#      entry_points: web/main.dart
