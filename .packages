@@ -1,9 +1,9 @@
-# Generate by pub on 2015-07-08 09:32:15.373.
+# Generate by pub on 2015-07-08 11:24:47.237.
 # This file contains a map from Dart package names to Dart package locations.
 # Dart tools, including the Dart VM and Dart analyzer, rely on the content.
 # AUTO GENERATED - DO NOT EDIT
 analyzer:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/analyzer-0.25.0+1/lib/
-angular2:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/angular2-2.0.0-alpha.29/lib/
+angular2:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/angular2-2.0.0-alpha.30/lib/
 args:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/args-0.13.2/lib/
 barback:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/barback-0.15.2+4/lib/
 browser:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/browser-0.10.0+2/lib/
