@@ -4,7 +4,7 @@ import 'package:angular2/angular2.dart';
     selector: "my-app"
 )
 @View(
-    template: "<h1>Hello {{ name }}</h1>"
+    templateUrl: "packages/ng2_dart_quickstart/app.html"
 )
 class AppComponent {
   String name = "Alice";
