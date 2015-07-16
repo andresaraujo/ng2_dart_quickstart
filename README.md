@@ -12,3 +12,6 @@ see https://www.dartlang.org/downloads
 `pub serve`
 
 #### open http://localhost:8080/
+
+
+NOTE: Transformer is disabled due some issues in current alphas, it will be enabled in the future
