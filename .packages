@@ -1,9 +1,9 @@
-# Generate by pub on 2015-07-31 12:16:07.326.
+# Generate by pub on 2015-08-08 14:26:40.412.
 # This file contains a map from Dart package names to Dart package locations.
 # Dart tools, including the Dart VM and Dart analyzer, rely on the content.
 # AUTO GENERATED - DO NOT EDIT
 analyzer:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/analyzer-0.25.0+1/lib/
-angular2:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/angular2-2.0.0-alpha.33/lib/
+angular2:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/angular2-2.0.0-alpha.34/lib/
 args:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/args-0.13.2/lib/
 barback:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/barback-0.15.2+4/lib/
 browser:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/browser-0.10.0+2/lib/
@@ -16,7 +16,7 @@ html:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/html-0.12.1+1/lib/
 intl:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/intl-0.12.4/lib/
 logging:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/logging-0.11.1/lib/
 matcher:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.0+1/lib/
-ng2_dart_quickstart:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/ng2_dart_quickstart-0.0.1/lib/
+ng2_dart_quickstart:lib/
 observe:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/observe-0.13.1+1/lib/
 path:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/path-1.3.5/lib/
 petitparser:file:///Users/andres/.pub-cache/hosted/pub.dartlang.org/petitparser-1.4.3/lib/
