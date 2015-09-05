@@ -1,4 +1,4 @@
-import 'package:angular2/angular2.dart';
+import 'package:angular2/angular2.dart' show Component, View;
 
 @Component(
     selector: "my-app"
