@@ -6,8 +6,8 @@ description: An absolute bare-bones angular 2 app.
 environment:
   sdk: '>=1.0.0 <2.0.0'
 dependencies:
-  browser: '>=0.10.0 <0.11.0'
-  angular2: '2.0.0-alpha.37'
+  browser: '^0.10.0'
+  angular2: '2.0.0-alpha.40'
 transformers:
   - angular2:
       entry_points: web/main.dart
